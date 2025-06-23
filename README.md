@@ -20,7 +20,7 @@ https://github.com/MxSns/PyimageCrawler.git
 
 - Install the required dependencies
 
-pip install requests
+pip install -r requirements.txt
 
 ## Usage
 
