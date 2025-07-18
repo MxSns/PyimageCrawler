@@ -22,7 +22,7 @@ title = "\t\t  ___                        ___                 _         \n" +\
         "\t\t |___|_|_|_\__,_\__, \___|  \___|_| \__,_|\_/\_/|_\___|_|  \n" +\
         "\t\t                |___/                                      "
 
-# This function will request a webpage and return the html text
+# request a webpage and return the html text
 def fetch_page(domain):
     try:
         response = requests.get(domain)
